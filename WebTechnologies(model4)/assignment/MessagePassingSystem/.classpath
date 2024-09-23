@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="E:/software/jar/jar_files/jsp-api-5.5.23.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/software/jar/jar_files/mysql-connector-5.1.18.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/software/jar/jar_files/servlet-api-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/software/jar_files (2)/javax.servlet.jsp-2.2.0.v201112011158.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/software/jar_files (2)/javax.servlet-3.0.0.v201112011016.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/software/tops/activation.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/software/tops/javax.mail.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
